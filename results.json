@@ -1,0 +1,22 @@
+{
+    "total_num_male": 1,
+    "records": [
+        {
+            "sentence": "Der Einfluss von Sprache auf die Geschlechterwahrnehmung ist ein faszinierendes Forschungsfeld innerhalb der Sozialwissenschaften.",
+            "gender_categories": [
+                "MALE",
+                "FEMALE"
+            ]
+        },
+        {
+            "sentence": "Sprache ist nicht nur ein Kommunikationsmittel, sondern auch ein Instrument, das unsere Wahrnehmung von Identit\u00e4t und Rollen in der Gesellschaft pr\u00e4gen kann.",
+            "gender_categories": [
+                "INCLUSIVE"
+            ]
+        },
+        {
+            "sentence": "Im deutschen Sprachgebrauch gibt es verschiedene M\u00f6glichkeiten, Geschlecht in der Sprache zu markieren oder zu neutralisieren.",
+            "gender_categories": []
+        }
+    ]
+}

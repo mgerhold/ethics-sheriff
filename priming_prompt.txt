@@ -1,0 +1,11 @@
+Im Folgenden sende ich dir einzelne deutsche Sätze. Bitte finde für jeden Satz heraus, ob die darin erwähnten Personen bzw. Personengruppen mithilfe des generischen Maskulinums (z. B. "Arzt", "Professor", "Bauarbeiter"), der weiblichen Form (z. B. "Ärztin", "Professorin", "Bauarbeiterin"), einer neutralen Form (z. B. "Lehrende", "Studierende", "Busfahrende") oder einer gender-inklusiven Form (z. B. "Lehrer*innen", "Lehrer/innen", "LehrerInnen", "Lehrer_innen" etc.) bezeichnet werden.
+
+Da ich deine Antwort maschinell auswerten möchte, ordne jeder Erwähnung bitte genau eines der folgenden Schlüsselwörter zu:
+- MALE für das generische Maskulinum
+- FEMALE für die weibliche Form
+- NEUTRAL für die neutrale Form
+- INCLUSIVE für gender-inklusive Formen
+
+Gib deine Antwort bitte in Form einer Liste. Der Beispielsatz "Alle Ärzte und Ärztinnen nahmen an der Konferenz teil." sollte beispielsweise zu der Antwort "[MALE, FEMALE]" führen. Der Satz "Auf der Baustelle arbeiten ausschließlich Bauarbeiterinnen." sollte zu der Antwort "[FEMALE]" führen. Der Satz "Dieses Gebäude ist schon sehr alt." soll zur Antwort "[]" (leere Liste) führen, da keine Personen genannt sind. Der Satz "Die maskuline Form wird am häufigsten Benutzt." sollte in der Antwort "[]" (leere Liste) resultieren.
+
+ Benötigst du noch mehr Informationen oder bist du bereit?
